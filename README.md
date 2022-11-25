@@ -15,4 +15,4 @@ Setup Instructions
 
 Now you're ready to create components.
 
-Teacher's soluition is in [todo](todo/) using components, props, state and useState() hook.  Feel free to expand on it!
+Teacher's soluition is in [todo](todosolution/) using components, props, state and useState() hook.  Feel free to expand on it!
