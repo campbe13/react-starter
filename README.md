@@ -14,3 +14,5 @@ Setup Instructions
 6. now `npm run start`  make sure you see all of the fields<br> ![Todo screenshot](todo.png)
 
 Now you're ready to create components.
+
+Teacher's soluition is in [todo](todo/) using components, props, state and useState() hook.  Feel free to expand on it!
