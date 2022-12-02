@@ -2,7 +2,7 @@
 
 Setup Instructions 
 
-1. npx create-react-app todo
+1. `npx create-react-app todo`
 2. `cd todo`
 2. optional: delete a few files `cd src;rm -- App.test.js App.css logo.svg reportWebVitals.js setupTests.js`
    * note if you do this you will also have to remove imports & references to these
